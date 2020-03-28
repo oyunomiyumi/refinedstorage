@@ -1,1 +1,1 @@
-I fucked up, sorry x.x
+A fork for personal use, to make it work the way my boyfriend and I prefer.
